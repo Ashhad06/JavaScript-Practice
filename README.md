@@ -1,2 +1,2 @@
-#Ashhadchaghtai
-##Javacript practice
+# Ashhadchaghtai
+## Javacript practice
